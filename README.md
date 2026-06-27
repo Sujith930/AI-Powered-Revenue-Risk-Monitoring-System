@@ -87,37 +87,24 @@ The application helps users:
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-> Add screenshots after deployment.
+| Dashboard | Prediction & Risk Analysis |
+|-----------|----------------------------|
+| ![Dashboard](Dashboard.png) | ![Prediction](Prediction-&-Risk-Analysis.png) |
 
-* Dashboard Overview
-* Revenue Prediction
-* Business Insights
-* Risk Analysis
-
-Store screenshots inside:
-
-```
-assets/
-```
-
-Example:
-
-```
-assets/dashboard.png
-assets/prediction.png
-assets/insights.png
-```
+| Business Insights |
+|-------------------|
+| ![Insights](Insights.png) |
 
 ---
 
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sujith930/AI-Powered-Revenue-Risk-Monitoring-System.git
 
-cd <repository-folder>
+cd AI-Powered-Revenue-Risk-Monitoring-System
 
 pip install -r requirements.txt
 ```
