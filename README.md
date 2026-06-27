@@ -91,7 +91,7 @@ The application helps users:
 
 | Dashboard | Prediction & Risk Analysis |
 |-----------|----------------------------|
-| ![Dashboard](Dashboard.png) | ![Prediction](Prediction-&-Risk-Analysis.png) |
+| ![Dashboard](Dashboard.png) | ![Prediction](Prediction-Risk-Analysis.png) |
 
 | Business Insights |
 |-------------------|
