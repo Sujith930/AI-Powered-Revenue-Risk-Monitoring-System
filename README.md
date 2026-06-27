@@ -41,7 +41,7 @@ Python | Scikit-learn | Pandas | Streamlit | Matplotlib
 
 📄 Detailed Report
 
-[https://docs.google.com/document/d/10sOBF9NAlCtaVTjWgt-ToEFMs7qaDVDNCAoJ70ZLvGs/edit?usp=drivesdk]
+[https://drive.google.com/file/d/1HLlSdNCCW6JUh9OuSV3-tsbBqRHYWh1A/view?usp=drive_link]
 
 
 ## How to Run Locally
