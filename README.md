@@ -150,7 +150,7 @@ The complete project report contains:
 
 For the complete documentation, refer to:
 
-**📄 Project_Report.pdf**
+**📄 [https://drive.google.com/file/d/1HLlSdNCCW6JUh9OuSV3-tsbBqRHYWh1A/view]**
 
 ---
 
